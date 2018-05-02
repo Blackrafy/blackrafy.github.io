@@ -6,7 +6,6 @@
 .istoric
 {
 	margin-top: 4vh;
-
 }
 .background
 {
@@ -15,12 +14,4 @@
 	width: 100%;
 	position: absolute;
 }
-body
-{
-	background:url("../img/old-paper-bg.jpg");
-	background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
- 
-}
+
