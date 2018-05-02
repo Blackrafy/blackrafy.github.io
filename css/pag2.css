@@ -1,0 +1,17 @@
+.navbar
+{
+	padding-left: 10vw;
+}
+
+.istoric
+{
+	margin-top: 4vh;
+}
+.background
+{
+	z-index: -1;
+	height: 94.3%;
+	width: 100%;
+	position: absolute;
+}
+

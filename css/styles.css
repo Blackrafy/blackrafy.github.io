@@ -1,0 +1,73 @@
+ 
+
+ @font-face{
+ 	font-family: "Stingray";
+ 	src:url("../fonts/Stingray.otf");
+ }
+
+
+
+
+.button1 {background-color: #4CAF50;} /* Green */
+
+
+h1 p{
+	font-family: Stingray;
+}
+
+.alert-primary{
+	background-color:yellow; 
+	font-size: 70px;
+}
+h1{
+
+	padding-top: 45vh;
+	color: white;
+	text-align: center;
+}
+
+body{
+	
+ font-family: Calibri, sans-serif;
+ background: url('../img/Background.jpg') no-repeat fixed;
+ top: 0;
+ background-size: 100%;
+ -o-background-size: cover;
+	}
+@media screen and (min-width: 480px){
+ body{
+  background: url('../img/Background.jpg') no-repeat center center fixed;
+ background-size: cover;
+ -o-background-size: cover;
+ }
+}
+
+
+.nigga{
+	font-family: Stingray;
+	position: relative;
+    width: 100%;
+    left: 0;
+    height: 100vh;
+    background-color: rgba(0,0,0,0.8);
+
+
+}
+
+.col-sm{
+	text-align: center;
+	color: white;
+	font-size: 70px;
+}
+
+
+h2{
+	padding-top: 40px;
+	color: green;
+	text-align: center;
+	font-size: 40px;
+}
+.table
+{
+	
+}
