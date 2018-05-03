@@ -1,0 +1,36 @@
+.navbar
+{
+	padding-left: 10vw;
+}
+
+.istoric
+{
+	margin-top: 4vh;
+}
+.background
+{
+
+	z-index: -1;
+	height: 94.3%;
+	width: 100%;
+	position: absolute;
+}
+
+body
+{
+	background:url("../img/63190358-ibiza-wallpapers.jpg");
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.ibiza
+{
+	padding-top: 15px;
+	background-color: lightblue;
+	padding-bottom:  8px;
+	
+}
