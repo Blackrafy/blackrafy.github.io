@@ -1,0 +1,34 @@
+.navbar
+{
+	padding-left: 10vw;
+}
+
+.istoric
+{
+	margin-top: 4vh;
+}
+.background
+{
+
+	z-index: -1;
+	height: 94.3%;
+	width: 100%;
+	position: absolute;
+}
+
+body
+{
+	background:url("https://www.musttravel.ro/wp-content/uploads/2017/05/8589130422587-barcelona-city-wallpaper-hd.jpg");
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.madrid
+{
+	padding-top: 15px;
+	background-color: lightgrey;
+	padding-bottom:  8px;
+	
+}
