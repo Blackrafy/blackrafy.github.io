@@ -1,0 +1,34 @@
+.navbar
+{
+	padding-left: 10vw;
+}
+
+.istoric
+{
+	margin-top: 4vh;
+}
+.background
+{
+
+	z-index: -1;
+	height: 94.3%;
+	width: 100%;
+	position: absolute;
+}
+
+body
+{
+	background:url("https://ugrad.eller.arizona.edu/sites/ugrad/files/images/photos/barcelona.jpg");
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.barcelona
+{
+	padding-top: 15px;
+	background-color: lightgrey;
+	padding-bottom:  8px;
+	
+}
